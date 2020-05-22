@@ -1,0 +1,60 @@
+html,
+body {
+  background-color: #caf0ff;
+}
+
+img {
+  width: 250px;
+}
+
+.container {
+  width: 690px;
+}
+
+.row {
+  text-align: center;
+}
+
+form,
+h2,
+img {
+  margin: auto;
+}
+
+ol {
+  padding: 0px;
+}
+
+.devoured-burger-names {
+  text-decoration: line-through;
+}
+
+.devour-button {
+  background-color: #ad0000;
+  margin-bottom: 5px;
+
+  color: #e5cb7a;
+  font-weight: bold;
+}
+
+.burger-names {
+  color: #ff7b00;
+
+  font-weight: bold;
+}
+
+label {
+  color: black;
+  font-weight: bold;
+}
+
+h2,
+h3 {
+  color: #ff8533;
+  line-height: 1.5;
+  margin-bottom: 5px;
+}
+
+textarea {
+  background-color: #e5cb7a;
+}
